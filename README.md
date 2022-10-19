@@ -1,5 +1,4 @@
 - 👋 Hi, I’m jieun
-- 👀 I’m interested in Computer Languages
 - 🌱 EMAIL : qhskdishfwkd@naver.com
 
 
