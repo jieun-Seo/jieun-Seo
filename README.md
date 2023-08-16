@@ -1,6 +1,6 @@
-- 👋 Hi, I’m jieun
-- 🌱 EMAIL : qhskdishfwkd@naver.com
-
+💬 Hi, I’m jieun   
+🌱 EMAIL : qhskdishfwkd@naver.com
+<!-- 한줄띄우기 : 스페이스3번 -->
 
 <!---
 jieun-Seo/jieun-Seo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
