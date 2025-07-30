@@ -3,8 +3,18 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Hello+World%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=Happy+Coding+Day&descSize=20&descAlign=50&descAlignY=60)
 
+
 💬 Hi, I’m jieun  
 🌱 EMAIL : qhskdishfwkd@naver.com
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jieun-Seo&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/jieun-Seo"
+    width="600"
+    height="300"
+  />
+</a>
+  
 
 <!-- 한줄띄우기 : 스페이스3번 -->
 
