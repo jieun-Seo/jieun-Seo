@@ -3,6 +3,11 @@
 
 <!-- 해더 만들기 -->
 <!-- https://capsule-render.vercel.app/ -->
+
+
+<!-- 변영인강사가 만든 프로필 만들기-->
+<!-- https://qus0in.github.io/paste_profile/ -->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hafa%20Adai&descAlign=61&descAlignY=19)
 
 
@@ -29,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-✨Skills ✨
+✨ Skills
 
 <!-- https://simpleicons.org/?q=net -->
 
@@ -42,4 +47,5 @@ You can click the Preview link to take a look at your changes.
 
 [![jieun's github stats](https://github-readme-stats.vercel.app/api?username=jieun-Seo&show_icons=true&theme=radical)](https://github.com/jieun-Seo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieun-Seo&layout=compact)](https://github.com/jieun-Seo/github-readme-stats)
+🚌 Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieun-Seo&layout=donut)
