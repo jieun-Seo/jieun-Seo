@@ -7,11 +7,12 @@
 💬 Hi, I’m jieun  
 🌱 EMAIL : qhskdishfwkd@naver.com
 
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jieun-Seo&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/jieun-Seo"
     width="600"
-    height="300"
+    height="120"
   />
 </a>
   
