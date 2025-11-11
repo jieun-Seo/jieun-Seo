@@ -1,7 +1,9 @@
 <!-- 프로필 만들기 -->
 <!-- https://qus0in.github.io/paste_profile/ -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Hello+World%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=Happy+Coding+Day&descSize=20&descAlign=50&descAlignY=60)
+<!-- 해더 만들기 -->
+<!-- https://capsule-render.vercel.app/ -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%ED%95%B4%ED%94%BC%EB%8D%B0%EC%9D%B4%20:)&descAlign=61&descAlignY=19)
 
 
 💬 Hi, I’m jieun  
