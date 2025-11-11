@@ -3,7 +3,7 @@
 
 <!-- 해더 만들기 -->
 <!-- https://capsule-render.vercel.app/ -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%ED%95%B4%ED%94%BC%EB%8D%B0%EC%9D%B4%20:)&descAlign=61&descAlignY=19)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hafa%20Adai&descAlign=61&descAlignY=19)
 
 
 💬 Hi, I’m jieun  
