@@ -4,16 +4,13 @@
 <!-- 해더 만들기 -->
 <!-- https://capsule-render.vercel.app/ -->
 
-
 <!-- 변영인강사가 만든 프로필 만들기-->
 <!-- https://qus0in.github.io/paste_profile/ -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hafa%20Adai&descAlign=61&descAlignY=19)
 
-
 💬 Hi, I’m jieun  
 🌱 EMAIL : qhskdishfwkd@naver.com
-
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jieun-Seo&utm_content=farm">
 <img
@@ -22,7 +19,7 @@
   height="300"
 />
 </a>
-  
+
 
 <!-- 한줄띄우기 : 스페이스3번 -->
 
